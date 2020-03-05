@@ -113,6 +113,13 @@ h1 {
   background-image: url("https://i2.pickpik.com/photos/262/903/824/weed-ganga-marijuana-cannabis-preview.jpg");
   background-position: center;
 }
+footer{
+  display: flex;
+  justify-content: center;
+}
+footer p{
+  text-align: center;
+}
 @media (max-width: 600px) {
   .s1 {
     flex-direction: column;
